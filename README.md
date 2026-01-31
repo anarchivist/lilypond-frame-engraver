@@ -2,8 +2,8 @@
 
 This package provides an engraver that draws boxes around groups of notes. The code herein was written by [David Nalesnik](https://github.com/davidnalesnik) and repackaged into a [lyp](https://github.com/noteflakes/lyp) package. For more context read the messages on lilypond-user:
 
-- http://lilypond.1069038.n5.nabble.com/Aleatoric-modern-notation-tp18113p18117.html
-- http://lilypond.1069038.n5.nabble.com/help-with-frameEngraver-bars-and-boxes-function-td199021.html
+- https://lists.gnu.org/archive/html/lilypond-user/2012-03/msg00357.html
+- https://lists.gnu.org/archive/html/lilypond-user/2017-01/msg00200.html
 
 ## Installation
 
