@@ -4,6 +4,7 @@ This package provides an engraver that draws boxes around groups of notes. The c
 
 - https://lists.gnu.org/archive/html/lilypond-user/2012-03/msg00357.html
 - https://lists.gnu.org/archive/html/lilypond-user/2017-01/msg00200.html
+- https://lists.gnu.org/archive/html/lilypond-user/2025-02/msg00268.html
 
 ## Installation
 
